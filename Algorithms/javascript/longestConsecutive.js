@@ -16,8 +16,6 @@
  * @param {number[]} nums
  * @return {number}
  */
-
- 
 var longestConsecutive = function(nums) {
     var len = nums.length;
     var longestlen = 1,temp = 1;
